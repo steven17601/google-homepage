@@ -1,0 +1,1 @@
+This is a project for the odin project's web development 101 course. The goal is to build a copy of the google homepage.
